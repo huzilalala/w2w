@@ -69,7 +69,7 @@ python w2w.py INPUT_DIRECTORY YOUR_LCZ.TIF YOUR_GEO_EM.d0X.NC
 
 Documentation & citation
 -------
-A citable documentation is currently being prepared. A draft version can be accessed [here](). 
+A citable documentation is currently being prepared. A draft version can be accessed [here](https://github.com/matthiasdemuzere/w2w/tree/main/JOSS/paper.pdf). 
 
 License
 -------
